@@ -8,7 +8,8 @@ Currently:
 - Webscraper program
 - Addblocker.crx (needed if want to use webscraper)
 ## Modules
-Install [WebDriver for Chrome](https://chromedriver.chromium.org)
+Install [WebDriver for Chrome](https://chromedriver.chromium.org).
+
 use pipy3 install or pip install 
 - pandas
 - Selenium
