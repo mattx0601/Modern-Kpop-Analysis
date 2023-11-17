@@ -1,6 +1,6 @@
 # Modern-KPop-Analysis
 ## Description
-I gathered data of the kpop group industry using a personally built webscraper which holds general information such as name and debut year from a [Kpop database website](dbkpop.com) to conduct a analysis on the data.
+I gathered data of the kpop group industry using a personally coded webscraper which holds general information such as name and debut year from a [Kpop database website](dbkpop.com) to conduct a analysis on the data.
 I personally started this project for fun to get to learn data science and obtain data analysis skills.
 ## Contents 
 Currently: 
