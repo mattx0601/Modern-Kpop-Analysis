@@ -3,7 +3,6 @@
 I gathered data of the kpop group industry using a personally coded webscraper which holds general information such as name and debut year from a [Kpop database website](dbkpop.com) to conduct a analysis on the data.
 I personally started this project for fun to get to learn data science and obtain data analysis skills.
 ## Contents 
-Currently: 
 - csv files of male kpop groups and female kpop
 - 2 webscraper programs 
 - Addblocker.crx (needed if want to use webscraper)
