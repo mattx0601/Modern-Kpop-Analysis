@@ -6,6 +6,7 @@ I personally started this project for fun to get to learn data science and obtai
 - csv files of male kpop groups and female kpop
 - 2 webscraper programs 
 - Addblocker.crx (needed if want to use webscraper)
+- DataAnalysis.ipynb 
 
 I made the 2 webscraper programs because the table containing kpop artists differs from the one that contains kpop groups. They essentially handle different cases, but the frame is the same.
 ## Modules
